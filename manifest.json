@@ -1,0 +1,1896 @@
+{
+  "version": 1,
+  "generated": "2026-02-19T16:23:46Z",
+  "description": "Highway Radar heatmap tile packages for US and Canada",
+  "totalPackages": 63,
+  "totalTiles": 683125,
+  "totalSizeMB": 4606.4,
+  "packages": [
+    {
+      "id": "alberta",
+      "name": "Alberta",
+      "country": "CA",
+      "filename": "Alberta.db",
+      "fileSize": 87912448,
+      "fileSizeMB": 83.8,
+      "tileCount": 13685,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 388,
+        "11": 874,
+        "12": 1837,
+        "13": 3619,
+        "14": 6967
+      },
+      "bounds": {
+        "latMin": 48.9946,
+        "latMax": 59.5232,
+        "lonMin": -119.9927,
+        "lonMax": -110.0061
+      },
+      "checksum": "00c139908d90132c"
+    },
+    {
+      "id": "british_columbia",
+      "name": "British Columbia",
+      "country": "CA",
+      "filename": "British_Columbia.db",
+      "fileSize": 69312512,
+      "fileSizeMB": 66.1,
+      "tileCount": 9700,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 288,
+        "11": 564,
+        "12": 1212,
+        "13": 2490,
+        "14": 5146
+      },
+      "bounds": {
+        "latMin": 48.3416,
+        "latMax": 59.977,
+        "lonMin": -130.3418,
+        "lonMax": -114.6863
+      },
+      "checksum": "ef8f8415e8f9516f"
+    },
+    {
+      "id": "manitoba",
+      "name": "Manitoba",
+      "country": "CA",
+      "filename": "Manitoba.db",
+      "fileSize": 17317888,
+      "fileSizeMB": 16.5,
+      "tileCount": 2960,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 122,
+        "11": 231,
+        "12": 425,
+        "13": 775,
+        "14": 1407
+      },
+      "bounds": {
+        "latMin": 48.9946,
+        "latMax": 56.4625,
+        "lonMin": -101.8982,
+        "lonMax": -95.1636
+      },
+      "checksum": "f53591bc2205cb94"
+    },
+    {
+      "id": "new_brunswick",
+      "name": "New Brunswick",
+      "country": "CA",
+      "filename": "New_Brunswick.db",
+      "fileSize": 28606464,
+      "fileSizeMB": 27.3,
+      "tileCount": 3912,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 66,
+        "11": 192,
+        "12": 462,
+        "13": 1032,
+        "14": 2160
+      },
+      "bounds": {
+        "latMin": 45.0968,
+        "latMax": 48.0634,
+        "lonMin": -68.7085,
+        "lonMax": -63.8525
+      },
+      "checksum": "6d2f36c1899da280"
+    },
+    {
+      "id": "newfoundland_and_labrador",
+      "name": "Newfoundland and Labrador",
+      "country": "CA",
+      "filename": "Newfoundland_and_Labrador.db",
+      "fileSize": 12070912,
+      "fileSizeMB": 11.5,
+      "tileCount": 1860,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 70,
+        "11": 153,
+        "12": 290,
+        "13": 514,
+        "14": 833
+      },
+      "bounds": {
+        "latMin": 46.6796,
+        "latMax": 54.8766,
+        "lonMin": -67.0605,
+        "lonMax": -52.6685
+      },
+      "checksum": "5466f28bde41df37"
+    },
+    {
+      "id": "northwest_territories",
+      "name": "Northwest Territories",
+      "country": "CA",
+      "filename": "Northwest_Territories.db",
+      "fileSize": 774144,
+      "fileSizeMB": 0.7,
+      "tileCount": 103,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 5,
+        "11": 8,
+        "12": 14,
+        "13": 27,
+        "14": 49
+      },
+      "bounds": {
+        "latMin": 62.3496,
+        "latMax": 67.4665,
+        "lonMin": -133.8574,
+        "lonMax": -114.2798
+      },
+      "checksum": "66b8eaf690f8cc83"
+    },
+    {
+      "id": "nova_scotia",
+      "name": "Nova Scotia",
+      "country": "CA",
+      "filename": "Nova_Scotia.db",
+      "fileSize": 23334912,
+      "fileSizeMB": 22.3,
+      "tileCount": 3070,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 58,
+        "11": 155,
+        "12": 370,
+        "13": 809,
+        "14": 1678
+      },
+      "bounds": {
+        "latMin": 43.5485,
+        "latMax": 46.9203,
+        "lonMin": -66.1816,
+        "lonMax": -59.8535
+      },
+      "checksum": "4e2caa318a2964dd"
+    },
+    {
+      "id": "nunavut",
+      "name": "Nunavut",
+      "country": "CA",
+      "filename": "Nunavut.db",
+      "fileSize": 45056,
+      "fileSizeMB": 0.0,
+      "tileCount": 6,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 2,
+        "11": 1,
+        "12": 1,
+        "13": 1,
+        "14": 1
+      },
+      "bounds": {
+        "latMin": 63.7436,
+        "latMax": 63.7825,
+        "lonMin": -68.7305,
+        "lonMax": -68.3789
+      },
+      "checksum": "ba045ec0542f0f2d"
+    },
+    {
+      "id": "ontario",
+      "name": "Ontario",
+      "country": "CA",
+      "filename": "Ontario.db",
+      "fileSize": 224366592,
+      "fileSizeMB": 214.0,
+      "tileCount": 30801,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 364,
+        "11": 1002,
+        "12": 2793,
+        "13": 7578,
+        "14": 19064
+      },
+      "bounds": {
+        "latMin": 41.9023,
+        "latMax": 53.3046,
+        "lonMin": -95.1526,
+        "lonMax": -74.3555
+      },
+      "checksum": "b32ddc5fe9eb6a77"
+    },
+    {
+      "id": "prince_edward_island",
+      "name": "Prince Edward Island",
+      "country": "CA",
+      "filename": "Prince_Edward_Island.db",
+      "fileSize": 4481024,
+      "fileSizeMB": 4.3,
+      "tileCount": 698,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 9,
+        "11": 31,
+        "12": 84,
+        "13": 196,
+        "14": 378
+      },
+      "bounds": {
+        "latMin": 45.9741,
+        "latMax": 47.0102,
+        "lonMin": -64.248,
+        "lonMax": -62.0508
+      },
+      "checksum": "aa089111b9ca3da0"
+    },
+    {
+      "id": "quebec",
+      "name": "Quebec",
+      "country": "CA",
+      "filename": "Quebec.db",
+      "fileSize": 149196800,
+      "fileSizeMB": 142.3,
+      "tileCount": 21285,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 282,
+        "11": 777,
+        "12": 2045,
+        "13": 5333,
+        "14": 12848
+      },
+      "bounds": {
+        "latMin": 45.0114,
+        "latMax": 58.1707,
+        "lonMin": -79.541,
+        "lonMax": -57.1289
+      },
+      "checksum": "ce9efeb76a2f0126"
+    },
+    {
+      "id": "saskatchewan",
+      "name": "Saskatchewan",
+      "country": "CA",
+      "filename": "Saskatchewan.db",
+      "fileSize": 36216832,
+      "fileSizeMB": 34.5,
+      "tileCount": 5952,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 278,
+        "11": 538,
+        "12": 945,
+        "13": 1578,
+        "14": 2613
+      },
+      "bounds": {
+        "latMin": 48.9946,
+        "latMax": 59.3108,
+        "lonMin": -109.9951,
+        "lonMax": -101.4258
+      },
+      "checksum": "d49b31a652c27152"
+    },
+    {
+      "id": "yukon",
+      "name": "Yukon",
+      "country": "CA",
+      "filename": "Yukon.db",
+      "fileSize": 888832,
+      "fileSizeMB": 0.8,
+      "tileCount": 172,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 19,
+        "11": 28,
+        "12": 32,
+        "13": 38,
+        "14": 55
+      },
+      "bounds": {
+        "latMin": 60.021,
+        "latMax": 63.3521,
+        "lonMin": -138.8232,
+        "lonMax": -128.8916
+      },
+      "checksum": "9cd5733cd97d35b9"
+    },
+    {
+      "id": "alabama",
+      "name": "Alabama",
+      "country": "US",
+      "filename": "Alabama.db",
+      "fileSize": 108847104,
+      "fileSizeMB": 103.8,
+      "tileCount": 16059,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 119,
+        "11": 424,
+        "12": 1365,
+        "13": 3892,
+        "14": 10259
+      },
+      "bounds": {
+        "latMin": 30.2401,
+        "latMax": 35.021,
+        "lonMin": -88.4729,
+        "lonMax": -84.9463
+      },
+      "checksum": "2a4a7e3587bd2699"
+    },
+    {
+      "id": "alaska",
+      "name": "Alaska",
+      "country": "US",
+      "filename": "Alaska.db",
+      "fileSize": 20905984,
+      "fileSizeMB": 19.9,
+      "tileCount": 3190,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 131,
+        "11": 241,
+        "12": 435,
+        "13": 857,
+        "14": 1526
+      },
+      "bounds": {
+        "latMin": 53.8525,
+        "latMax": 71.3571,
+        "lonMin": -166.5967,
+        "lonMax": -130.0342
+      },
+      "checksum": "4b606526cf3c53f2"
+    },
+    {
+      "id": "arizona",
+      "name": "Arizona",
+      "country": "US",
+      "filename": "Arizona.db",
+      "fileSize": 80076800,
+      "fileSizeMB": 76.4,
+      "tileCount": 10791,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 175,
+        "11": 454,
+        "12": 1094,
+        "13": 2652,
+        "14": 6416
+      },
+      "bounds": {
+        "latMin": 31.3255,
+        "latMax": 37.0026,
+        "lonMin": -114.8291,
+        "lonMax": -109.0503
+      },
+      "checksum": "5aedb8bb4a1bbab9"
+    },
+    {
+      "id": "arkansas",
+      "name": "Arkansas",
+      "country": "US",
+      "filename": "Arkansas.db",
+      "fileSize": 72196096,
+      "fileSizeMB": 68.9,
+      "tileCount": 10927,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 125,
+        "11": 375,
+        "12": 1091,
+        "13": 2755,
+        "14": 6581
+      },
+      "bounds": {
+        "latMin": 33.0179,
+        "latMax": 36.5008,
+        "lonMin": -94.6143,
+        "lonMax": -89.8242
+      },
+      "checksum": "9c6b527a06bdd883"
+    },
+    {
+      "id": "california",
+      "name": "California",
+      "country": "US",
+      "filename": "California.db",
+      "fileSize": 237527040,
+      "fileSizeMB": 226.5,
+      "tileCount": 29143,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 308,
+        "11": 878,
+        "12": 2504,
+        "13": 6891,
+        "14": 18562
+      },
+      "bounds": {
+        "latMin": 32.5376,
+        "latMax": 42.0003,
+        "lonMin": -124.2773,
+        "lonMax": -114.137
+      },
+      "checksum": "81259e103cf6346f"
+    },
+    {
+      "id": "colorado",
+      "name": "Colorado",
+      "country": "US",
+      "filename": "Colorado.db",
+      "fileSize": 79286272,
+      "fileSizeMB": 75.6,
+      "tileCount": 10973,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 192,
+        "11": 459,
+        "12": 1127,
+        "13": 2754,
+        "14": 6441
+      },
+      "bounds": {
+        "latMin": 37.0026,
+        "latMax": 40.9965,
+        "lonMin": -109.0393,
+        "lonMax": -102.019
+      },
+      "checksum": "9b5005c4f46ed1f9"
+    },
+    {
+      "id": "connecticut",
+      "name": "Connecticut",
+      "country": "US",
+      "filename": "Connecticut.db",
+      "fileSize": 32448512,
+      "fileSizeMB": 30.9,
+      "tileCount": 3835,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 16,
+        "11": 61,
+        "12": 228,
+        "13": 822,
+        "14": 2708
+      },
+      "bounds": {
+        "latMin": 40.9965,
+        "latMax": 42.0493,
+        "lonMin": -73.7073,
+        "lonMax": -71.8066
+      },
+      "checksum": "7927be72a0733a2b"
+    },
+    {
+      "id": "dc",
+      "name": "DC",
+      "country": "US",
+      "filename": "DC.db",
+      "fileSize": 917504,
+      "fileSizeMB": 0.9,
+      "tileCount": 53,
+      "zoomLevels": [
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "12": 2,
+        "13": 10,
+        "14": 41
+      },
+      "bounds": {
+        "latMin": 38.8311,
+        "latMax": 39.0021,
+        "lonMin": -77.113,
+        "lonMax": -76.9592
+      },
+      "checksum": "41c1cae457980bcb"
+    },
+    {
+      "id": "delaware",
+      "name": "Delaware",
+      "country": "US",
+      "filename": "Delaware.db",
+      "fileSize": 9580544,
+      "fileSizeMB": 9.1,
+      "tileCount": 1293,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 4,
+        "11": 23,
+        "12": 80,
+        "13": 285,
+        "14": 901
+      },
+      "bounds": {
+        "latMin": 38.4622,
+        "latMax": 39.8339,
+        "lonMin": -75.7727,
+        "lonMax": -75.0366
+      },
+      "checksum": "a1928853b01234d0"
+    },
+    {
+      "id": "florida",
+      "name": "Florida",
+      "country": "US",
+      "filename": "Florida.db",
+      "fileSize": 150220800,
+      "fileSizeMB": 143.3,
+      "tileCount": 18524,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 118,
+        "11": 437,
+        "12": 1393,
+        "13": 4253,
+        "14": 12323
+      },
+      "bounds": {
+        "latMin": 24.5471,
+        "latMax": 30.9964,
+        "lonMin": -87.561,
+        "lonMax": -80.0464
+      },
+      "checksum": "74e8f53c289c7ce0"
+    },
+    {
+      "id": "georgia",
+      "name": "Georgia",
+      "country": "US",
+      "filename": "Georgia.db",
+      "fileSize": 153354240,
+      "fileSizeMB": 146.2,
+      "tileCount": 21254,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 136,
+        "11": 522,
+        "12": 1657,
+        "13": 5008,
+        "14": 13931
+      },
+      "bounds": {
+        "latMin": 30.4581,
+        "latMax": 34.994,
+        "lonMin": -85.6165,
+        "lonMax": -80.8923
+      },
+      "checksum": "fedb4e1017ec5c26"
+    },
+    {
+      "id": "idaho",
+      "name": "Idaho",
+      "country": "US",
+      "filename": "Idaho.db",
+      "fileSize": 41787392,
+      "fileSizeMB": 39.9,
+      "tileCount": 6115,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 124,
+        "11": 300,
+        "12": 690,
+        "13": 1566,
+        "14": 3435
+      },
+      "bounds": {
+        "latMin": 42.0085,
+        "latMax": 48.9802,
+        "lonMin": -117.0374,
+        "lonMax": -111.0608
+      },
+      "checksum": "9e9415743d8570cf"
+    },
+    {
+      "id": "illinois",
+      "name": "Illinois",
+      "country": "US",
+      "filename": "Illinois.db",
+      "fileSize": 141848576,
+      "fileSizeMB": 135.3,
+      "tileCount": 20202,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 166,
+        "11": 575,
+        "12": 1700,
+        "13": 4836,
+        "14": 12925
+      },
+      "bounds": {
+        "latMin": 37.0113,
+        "latMax": 42.5126,
+        "lonMin": -91.4941,
+        "lonMax": -87.5281
+      },
+      "checksum": "7b7d7200c6ffcc5b"
+    },
+    {
+      "id": "indiana",
+      "name": "Indiana",
+      "country": "US",
+      "filename": "Indiana.db",
+      "fileSize": 90247168,
+      "fileSizeMB": 86.1,
+      "tileCount": 13980,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 106,
+        "11": 382,
+        "12": 1176,
+        "13": 3424,
+        "14": 8892
+      },
+      "bounds": {
+        "latMin": 37.8228,
+        "latMax": 41.7549,
+        "lonMin": -88.0664,
+        "lonMax": -84.8035
+      },
+      "checksum": "f3eb12ed6df3dc80"
+    },
+    {
+      "id": "iowa",
+      "name": "Iowa",
+      "country": "US",
+      "filename": "Iowa.db",
+      "fileSize": 81428480,
+      "fileSizeMB": 77.7,
+      "tileCount": 12945,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 154,
+        "11": 503,
+        "12": 1447,
+        "13": 3504,
+        "14": 7337
+      },
+      "bounds": {
+        "latMin": 40.3884,
+        "latMax": 43.5008,
+        "lonMin": -96.6138,
+        "lonMax": -90.1648
+      },
+      "checksum": "f96714d2d20105fd"
+    },
+    {
+      "id": "kansas",
+      "name": "Kansas",
+      "country": "US",
+      "filename": "Kansas.db",
+      "fileSize": 61829120,
+      "fileSizeMB": 59.0,
+      "tileCount": 9750,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 179,
+        "11": 457,
+        "12": 1102,
+        "13": 2554,
+        "14": 5458
+      },
+      "bounds": {
+        "latMin": 37.0026,
+        "latMax": 39.994,
+        "lonMin": -102.019,
+        "lonMax": -94.6252
+      },
+      "checksum": "f9ce4d7326c2f803"
+    },
+    {
+      "id": "kentucky",
+      "name": "Kentucky",
+      "country": "US",
+      "filename": "Kentucky.db",
+      "fileSize": 70344704,
+      "fileSizeMB": 67.1,
+      "tileCount": 9663,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 107,
+        "11": 322,
+        "12": 890,
+        "13": 2399,
+        "14": 5945
+      },
+      "bounds": {
+        "latMin": 36.5008,
+        "latMax": 39.1215,
+        "lonMin": -89.1541,
+        "lonMax": -82.1887
+      },
+      "checksum": "768145fa84484c4d"
+    },
+    {
+      "id": "louisiana",
+      "name": "Louisiana",
+      "country": "US",
+      "filename": "Louisiana.db",
+      "fileSize": 68235264,
+      "fileSizeMB": 65.1,
+      "tileCount": 10610,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 106,
+        "11": 326,
+        "12": 939,
+        "13": 2567,
+        "14": 6672
+      },
+      "bounds": {
+        "latMin": 29.1138,
+        "latMax": 33.0087,
+        "lonMin": -94.043,
+        "lonMax": -89.3408
+      },
+      "checksum": "f36ae208026d6318"
+    },
+    {
+      "id": "maine",
+      "name": "Maine",
+      "country": "US",
+      "filename": "Maine.db",
+      "fileSize": 42635264,
+      "fileSizeMB": 40.7,
+      "tileCount": 6661,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 69,
+        "11": 216,
+        "12": 644,
+        "13": 1715,
+        "14": 4017
+      },
+      "bounds": {
+        "latMin": 43.0849,
+        "latMax": 47.4504,
+        "lonMin": -71.0046,
+        "lonMax": -67.0056
+      },
+      "checksum": "6ca7bc7b346790d3"
+    },
+    {
+      "id": "maryland",
+      "name": "Maryland",
+      "country": "US",
+      "filename": "Maryland.db",
+      "fileSize": 41365504,
+      "fileSizeMB": 39.4,
+      "tileCount": 5564,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 26,
+        "11": 115,
+        "12": 374,
+        "13": 1246,
+        "14": 3803
+      },
+      "bounds": {
+        "latMin": 37.9788,
+        "latMax": 39.7156,
+        "lonMin": -79.4861,
+        "lonMax": -75.0476
+      },
+      "checksum": "c59ef193d71d2d83"
+    },
+    {
+      "id": "massachusetts",
+      "name": "Massachusetts",
+      "country": "US",
+      "filename": "Massachusetts.db",
+      "fileSize": 61042688,
+      "fileSizeMB": 58.2,
+      "tileCount": 6483,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 27,
+        "11": 99,
+        "12": 379,
+        "13": 1360,
+        "14": 4618
+      },
+      "bounds": {
+        "latMin": 41.253,
+        "latMax": 42.876,
+        "lonMin": -73.4656,
+        "lonMax": -69.95
+      },
+      "checksum": "e1a51859a88794fa"
+    },
+    {
+      "id": "michigan",
+      "name": "Michigan",
+      "country": "US",
+      "filename": "Michigan.db",
+      "fileSize": 154533888,
+      "fileSizeMB": 147.4,
+      "tileCount": 22942,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 216,
+        "11": 696,
+        "12": 2073,
+        "13": 5712,
+        "14": 14245
+      },
+      "bounds": {
+        "latMin": 41.7139,
+        "latMax": 47.4578,
+        "lonMin": -90.1978,
+        "lonMax": -82.4194
+      },
+      "checksum": "01a14f3417bbf028"
+    },
+    {
+      "id": "minnesota",
+      "name": "Minnesota",
+      "country": "US",
+      "filename": "Minnesota.db",
+      "fileSize": 110411776,
+      "fileSizeMB": 105.3,
+      "tileCount": 17311,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 234,
+        "11": 738,
+        "12": 1847,
+        "13": 4496,
+        "14": 9996
+      },
+      "bounds": {
+        "latMin": 43.5087,
+        "latMax": 48.9153,
+        "lonMin": -97.1301,
+        "lonMax": -89.5935
+      },
+      "checksum": "a1ad51a3a2bfce2c"
+    },
+    {
+      "id": "mississippi",
+      "name": "Mississippi",
+      "country": "US",
+      "filename": "Mississippi.db",
+      "fileSize": 86786048,
+      "fileSizeMB": 82.8,
+      "tileCount": 12470,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 104,
+        "11": 378,
+        "12": 1147,
+        "13": 3120,
+        "14": 7721
+      },
+      "bounds": {
+        "latMin": 30.2211,
+        "latMax": 34.994,
+        "lonMin": -91.637,
+        "lonMax": -88.1104
+      },
+      "checksum": "10ef68ff80452aab"
+    },
+    {
+      "id": "missouri",
+      "name": "Missouri",
+      "country": "US",
+      "filename": "Missouri.db",
+      "fileSize": 93343744,
+      "fileSizeMB": 89.0,
+      "tileCount": 13074,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 161,
+        "11": 485,
+        "12": 1284,
+        "13": 3321,
+        "14": 7823
+      },
+      "bounds": {
+        "latMin": 36.0047,
+        "latMax": 40.614,
+        "lonMin": -95.6909,
+        "lonMax": -89.1541
+      },
+      "checksum": "3910490ad96ccb11"
+    },
+    {
+      "id": "montana",
+      "name": "Montana",
+      "country": "US",
+      "filename": "Montana.db",
+      "fileSize": 50671616,
+      "fileSizeMB": 48.3,
+      "tileCount": 8065,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 246,
+        "11": 542,
+        "12": 1120,
+        "13": 2177,
+        "14": 3980
+      },
+      "bounds": {
+        "latMin": 44.5278,
+        "latMax": 48.9874,
+        "lonMin": -116.0376,
+        "lonMax": -104.0186
+      },
+      "checksum": "3b30a26d755a67d3"
+    },
+    {
+      "id": "nebraska",
+      "name": "Nebraska",
+      "country": "US",
+      "filename": "Nebraska.db",
+      "fileSize": 47857664,
+      "fileSizeMB": 45.6,
+      "tileCount": 8010,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 157,
+        "11": 412,
+        "12": 990,
+        "13": 2156,
+        "14": 4295
+      },
+      "bounds": {
+        "latMin": 40.0024,
+        "latMax": 42.9966,
+        "lonMin": -104.0186,
+        "lonMax": -95.4492
+      },
+      "checksum": "c7a9f72eaa441221"
+    },
+    {
+      "id": "nevada",
+      "name": "Nevada",
+      "country": "US",
+      "filename": "Nevada.db",
+      "fileSize": 40873984,
+      "fileSizeMB": 39.0,
+      "tileCount": 5282,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 111,
+        "11": 270,
+        "12": 595,
+        "13": 1344,
+        "14": 2962
+      },
+      "bounds": {
+        "latMin": 35.012,
+        "latMax": 42.0003,
+        "lonMin": -119.9927,
+        "lonMax": -114.0491
+      },
+      "checksum": "287f9fbeddc4963c"
+    },
+    {
+      "id": "new_hampshire",
+      "name": "New Hampshire",
+      "country": "US",
+      "filename": "New_Hampshire.db",
+      "fileSize": 34160640,
+      "fileSizeMB": 32.6,
+      "tileCount": 4640,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 29,
+        "11": 109,
+        "12": 367,
+        "13": 1119,
+        "14": 3016
+      },
+      "bounds": {
+        "latMin": 42.7067,
+        "latMax": 45.0813,
+        "lonMin": -72.5427,
+        "lonMax": -70.741
+      },
+      "checksum": "2b94ec30c75f3817"
+    },
+    {
+      "id": "new_jersey",
+      "name": "New Jersey",
+      "country": "US",
+      "filename": "New_Jersey.db",
+      "fileSize": 61251584,
+      "fileSizeMB": 58.4,
+      "tileCount": 5923,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 23,
+        "11": 86,
+        "12": 334,
+        "13": 1239,
+        "14": 4241
+      },
+      "bounds": {
+        "latMin": 38.9509,
+        "latMax": 41.3521,
+        "lonMin": -75.509,
+        "lonMax": -73.927
+      },
+      "checksum": "38df966068812a77"
+    },
+    {
+      "id": "new_mexico",
+      "name": "New Mexico",
+      "country": "US",
+      "filename": "New_Mexico.db",
+      "fileSize": 61677568,
+      "fileSizeMB": 58.8,
+      "tileCount": 8851,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 178,
+        "11": 443,
+        "12": 1015,
+        "13": 2298,
+        "14": 4917
+      },
+      "bounds": {
+        "latMin": 31.7749,
+        "latMax": 36.9938,
+        "lonMin": -109.0393,
+        "lonMax": -103.0518
+      },
+      "checksum": "304ef89d1a6d9b62"
+    },
+    {
+      "id": "new_york",
+      "name": "New York",
+      "country": "US",
+      "filename": "New_York.db",
+      "fileSize": 137412608,
+      "fileSizeMB": 131.0,
+      "tileCount": 19739,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 151,
+        "11": 529,
+        "12": 1628,
+        "13": 4681,
+        "14": 12750
+      },
+      "bounds": {
+        "latMin": 40.5222,
+        "latMax": 45.0037,
+        "lonMin": -79.7607,
+        "lonMax": -71.9275
+      },
+      "checksum": "49acc1cd85d420ab"
+    },
+    {
+      "id": "north_carolina",
+      "name": "North Carolina",
+      "country": "US",
+      "filename": "North_Carolina.db",
+      "fileSize": 157532160,
+      "fileSizeMB": 150.2,
+      "tileCount": 21454,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 125,
+        "11": 467,
+        "12": 1566,
+        "13": 4907,
+        "14": 14389
+      },
+      "bounds": {
+        "latMin": 33.8795,
+        "latMax": 36.5891,
+        "lonMin": -84.3091,
+        "lonMax": -75.4651
+      },
+      "checksum": "c070433bcd01c7bb"
+    },
+    {
+      "id": "north_dakota",
+      "name": "North Dakota",
+      "country": "US",
+      "filename": "North_Dakota.db",
+      "fileSize": 31268864,
+      "fileSizeMB": 29.8,
+      "tileCount": 5531,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 145,
+        "11": 337,
+        "12": 742,
+        "13": 1501,
+        "14": 2806
+      },
+      "bounds": {
+        "latMin": 45.9435,
+        "latMax": 48.9874,
+        "lonMin": -104.0186,
+        "lonMax": -96.6028
+      },
+      "checksum": "a4a97c29864d1c5f"
+    },
+    {
+      "id": "ohio",
+      "name": "Ohio",
+      "country": "US",
+      "filename": "Ohio.db",
+      "fileSize": 134561792,
+      "fileSizeMB": 128.3,
+      "tileCount": 19374,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 125,
+        "11": 453,
+        "12": 1472,
+        "13": 4533,
+        "14": 12791
+      },
+      "bounds": {
+        "latMin": 38.4192,
+        "latMax": 41.9677,
+        "lonMin": -84.8145,
+        "lonMax": -80.5298
+      },
+      "checksum": "8139188da3b7b70b"
+    },
+    {
+      "id": "oklahoma",
+      "name": "Oklahoma",
+      "country": "US",
+      "filename": "Oklahoma.db",
+      "fileSize": 67698688,
+      "fileSizeMB": 64.6,
+      "tileCount": 10936,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 141,
+        "11": 440,
+        "12": 1115,
+        "13": 2760,
+        "14": 6480
+      },
+      "bounds": {
+        "latMin": 33.6969,
+        "latMax": 36.9938,
+        "lonMin": -102.6453,
+        "lonMax": -94.4495
+      },
+      "checksum": "d8ffc3237f573acc"
+    },
+    {
+      "id": "oregon",
+      "name": "Oregon",
+      "country": "US",
+      "filename": "Oregon.db",
+      "fileSize": 67260416,
+      "fileSizeMB": 64.1,
+      "tileCount": 9411,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 164,
+        "11": 400,
+        "12": 986,
+        "13": 2393,
+        "14": 5468
+      },
+      "bounds": {
+        "latMin": 42.0085,
+        "latMax": 46.2102,
+        "lonMin": -124.5081,
+        "lonMax": -116.9165
+      },
+      "checksum": "429ae8b646743471"
+    },
+    {
+      "id": "pennsylvania",
+      "name": "Pennsylvania",
+      "country": "US",
+      "filename": "Pennsylvania.db",
+      "fileSize": 134709248,
+      "fileSizeMB": 128.5,
+      "tileCount": 18456,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 137,
+        "11": 454,
+        "12": 1433,
+        "13": 4319,
+        "14": 12113
+      },
+      "bounds": {
+        "latMin": 39.7241,
+        "latMax": 42.2773,
+        "lonMin": -80.5188,
+        "lonMax": -74.718
+      },
+      "checksum": "6cc2af170435187a"
+    },
+    {
+      "id": "rhode_island",
+      "name": "Rhode Island",
+      "country": "US",
+      "filename": "Rhode_Island.db",
+      "fileSize": 7684096,
+      "fileSizeMB": 7.3,
+      "tileCount": 842,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 3,
+        "11": 11,
+        "12": 49,
+        "13": 185,
+        "14": 594
+      },
+      "bounds": {
+        "latMin": 41.3356,
+        "latMax": 42.0167,
+        "lonMin": -71.8396,
+        "lonMax": -71.2354
+      },
+      "checksum": "46b8541b71e6fbc6"
+    },
+    {
+      "id": "south_carolina",
+      "name": "South Carolina",
+      "country": "US",
+      "filename": "South_Carolina.db",
+      "fileSize": 100962304,
+      "fileSizeMB": 96.3,
+      "tileCount": 13987,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 79,
+        "11": 298,
+        "12": 1033,
+        "13": 3296,
+        "14": 9281
+      },
+      "bounds": {
+        "latMin": 32.064,
+        "latMax": 35.1918,
+        "lonMin": -83.2324,
+        "lonMax": -78.5852
+      },
+      "checksum": "64daf5a2dd9a3ef8"
+    },
+    {
+      "id": "south_dakota",
+      "name": "South Dakota",
+      "country": "US",
+      "filename": "South_Dakota.db",
+      "fileSize": 31277056,
+      "fileSizeMB": 29.8,
+      "tileCount": 5548,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 140,
+        "11": 328,
+        "12": 732,
+        "13": 1511,
+        "14": 2837
+      },
+      "bounds": {
+        "latMin": 42.5288,
+        "latMax": 45.9359,
+        "lonMin": -104.0295,
+        "lonMax": -96.46
+      },
+      "checksum": "fd4b3bb7a03e543d"
+    },
+    {
+      "id": "tennessee",
+      "name": "Tennessee",
+      "country": "US",
+      "filename": "Tennessee.db",
+      "fileSize": 104427520,
+      "fileSizeMB": 99.6,
+      "tileCount": 14380,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 117,
+        "11": 378,
+        "12": 1186,
+        "13": 3462,
+        "14": 9237
+      },
+      "bounds": {
+        "latMin": 34.994,
+        "latMax": 36.6596,
+        "lonMin": -90.1758,
+        "lonMax": -81.7383
+      },
+      "checksum": "b94913f1f12cec17"
+    },
+    {
+      "id": "texas",
+      "name": "Texas",
+      "country": "US",
+      "filename": "Texas.db",
+      "fileSize": 371859456,
+      "fileSizeMB": 354.6,
+      "tileCount": 50451,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 543,
+        "11": 1700,
+        "12": 4737,
+        "13": 12419,
+        "14": 31052
+      },
+      "bounds": {
+        "latMin": 25.8889,
+        "latMax": 36.5008,
+        "lonMin": -106.6663,
+        "lonMax": -93.6035
+      },
+      "checksum": "48c7acc87dc8cd46"
+    },
+    {
+      "id": "utah",
+      "name": "Utah",
+      "country": "US",
+      "filename": "Utah.db",
+      "fileSize": 44007424,
+      "fileSizeMB": 42.0,
+      "tileCount": 6107,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 119,
+        "11": 276,
+        "12": 644,
+        "13": 1536,
+        "14": 3532
+      },
+      "bounds": {
+        "latMin": 37.0026,
+        "latMax": 42.0003,
+        "lonMin": -114.0381,
+        "lonMax": -109.0503
+      },
+      "checksum": "322ea16a0fda032c"
+    },
+    {
+      "id": "vermont",
+      "name": "Vermont",
+      "country": "US",
+      "filename": "Vermont.db",
+      "fileSize": 20656128,
+      "fileSizeMB": 19.7,
+      "tileCount": 3202,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 33,
+        "11": 111,
+        "12": 312,
+        "13": 802,
+        "14": 1944
+      },
+      "bounds": {
+        "latMin": 42.7389,
+        "latMax": 45.0037,
+        "lonMin": -73.4216,
+        "lonMax": -71.521
+      },
+      "checksum": "fdfc229be6a70cd7"
+    },
+    {
+      "id": "virginia",
+      "name": "Virginia",
+      "country": "US",
+      "filename": "Virginia.db",
+      "fileSize": 100167680,
+      "fileSizeMB": 95.5,
+      "tileCount": 13525,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 103,
+        "11": 374,
+        "12": 1139,
+        "13": 3241,
+        "14": 8668
+      },
+      "bounds": {
+        "latMin": 36.5538,
+        "latMax": 39.4447,
+        "lonMin": -83.6609,
+        "lonMax": -75.3223
+      },
+      "checksum": "d0f78cfdec7fc486"
+    },
+    {
+      "id": "washington",
+      "name": "Washington",
+      "country": "US",
+      "filename": "Washington.db",
+      "fileSize": 86347776,
+      "fileSizeMB": 82.3,
+      "tileCount": 12088,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 159,
+        "11": 458,
+        "12": 1113,
+        "13": 2950,
+        "14": 7408
+      },
+      "bounds": {
+        "latMin": 45.5987,
+        "latMax": 48.9874,
+        "lonMin": -124.6729,
+        "lonMax": -117.0264
+      },
+      "checksum": "ce512051ed2ff7d1"
+    },
+    {
+      "id": "west_virginia",
+      "name": "West Virginia",
+      "country": "US",
+      "filename": "West_Virginia.db",
+      "fileSize": 30576640,
+      "fileSizeMB": 29.2,
+      "tileCount": 4336,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 59,
+        "11": 167,
+        "12": 427,
+        "13": 1077,
+        "14": 2606
+      },
+      "bounds": {
+        "latMin": 37.2741,
+        "latMax": 40.6306,
+        "lonMin": -82.6062,
+        "lonMax": -77.7393
+      },
+      "checksum": "12b674aae6d8f37a"
+    },
+    {
+      "id": "wisconsin",
+      "name": "Wisconsin",
+      "country": "US",
+      "filename": "Wisconsin.db",
+      "fileSize": 114905088,
+      "fileSizeMB": 109.6,
+      "tileCount": 18000,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 184,
+        "11": 591,
+        "12": 1704,
+        "13": 4564,
+        "14": 10957
+      },
+      "bounds": {
+        "latMin": 42.5045,
+        "latMax": 46.785,
+        "lonMin": -92.8015,
+        "lonMax": -87.0117
+      },
+      "checksum": "a8044ba16a4ac3a6"
+    },
+    {
+      "id": "wyoming",
+      "name": "Wyoming",
+      "country": "US",
+      "filename": "Wyoming.db",
+      "fileSize": 44748800,
+      "fileSizeMB": 42.7,
+      "tileCount": 6971,
+      "zoomLevels": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "zoomCounts": {
+        "10": 182,
+        "11": 432,
+        "12": 949,
+        "13": 1888,
+        "14": 3520
+      },
+      "bounds": {
+        "latMin": 41.0048,
+        "latMax": 44.9959,
+        "lonMin": -111.0498,
+        "lonMax": -104.0295
+      },
+      "checksum": "b4717f935bcd759d"
+    }
+  ]
+}

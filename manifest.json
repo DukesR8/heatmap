@@ -1892,5 +1892,16 @@
       },
       "checksum": "b4717f935bcd759d"
     }
+  ],
+  "road_heat_packages": [
+    {
+      "id": "ca_ab_roadheat_v5",
+      "name": "Alberta v5",
+      "region_id": "CA-AB",
+      "filename": "Alberta-v5.roadheat",
+      "file_size": 184696832,
+      "sha256": "2e4c917788b7cd76585104172a03a7f6801b13b228c64e88703c58109521d44b",
+      "format_version": 1
+    }
   ]
 }
